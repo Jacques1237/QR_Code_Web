@@ -29,7 +29,7 @@ function App() {
           </h1>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             Generate QR codes instantly for URLs, text, phone numbers, Wi-Fi credentials,
-            and more. No tracking, completely free and privacy-focused.
+            and more. No tracking, completely free and privacy-focused. 
           </p>
         </header>
 
